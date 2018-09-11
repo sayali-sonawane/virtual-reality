@@ -1,0 +1,18 @@
+Why might stereoscopic displays and motion tracking hardware be so important for virtual reality?
+Stereoscopic displays gives the sense of depth by means of stereopsis for binocular vision. 2 2D images, a little offset, are combined in the brain to give the perception of depth, to create an illusion of the 3rd dimension. Although the effect of the 3D illusion amounts to great entertainment and visual experience, improper functioning of the hardware might cause some discomforts such as eye sore, eye strain, headache, blurred vision, nausea, visual fatigue which affects the user experience while gaming or watching a video.
+
+The entire purpose of the VR is to get immersed in another world. We do not just want the visual pleasure but also want to feel the world by touching and listening with full control of the environment. Curious that we are to know the world and the surroundings, we tend to move rather swiftly (translation and rotation) to examine it. To keep up with the motion, the hardware needs to have low latency because our perceptual systems are very sensitive. Motion tracking hardware needs to be equally sensitive for quality stereo rendering. 
+
+There has yet to emerge a consensus regarding the "best" or "most intuitive" input devices for virtual reality. Why might that be? What would you recommend?
+
+The headset and handset for VR are not the most sensitive as of now. Handsets to control the objects in the VR are not intuitive. The headset is too big and uncomfortable to wear it. The user can't move about in VR because there is space restriction in the real room. 
+
+Input types:
+Touch
+Current VR joysticks or handsets are not very intuitive. The most intuitive control would be to be able to use hands naturally. Gloves with sensors, gyroscopes and accelerometers at every joint will do the trick. Along with the sensors, the rest of the glove should also have sensory material which will apply pressure to the body if the user is trying to lift something. Using physics material in Unity, we can set the weight for the material (e.g. ball) and apply certain pressure when we lift, catch or throw it. 
+
+Gaze fixation  
+Off-late, head tracking devices track only head movements. There should be eyeball tracking device which will track the gaze fixations. It will useful in many practical purposes. e.g. while training, your gaze shifts off the target, the sensors will remind you to stay focussed and shift the gaze back to the target. Along with that, of course, light headset is a must.
+
+Motion
+To move around in VR, we set up a room with multiple sensors and calibrate the room for the movement. We can create a hardware like manual treadmill which can move in any direction. This will solve the issue of physical motion of the user while roaming in the VR room regardless the small size of real room. It certainly has drawbacks, e.g. if the user jumps, or there is an obstacle in VR but not in the real world. 
