@@ -1,0 +1,15 @@
+VR articles
+
+https://moodle.cs.colorado.edu/pluginfile.php/85197/mod_forum/intro/The%20Ultimate%20Display%20-%20Sutherland1965%20-%20WIRED.pdf
+https://www.wired.com/2009/09/augmented-reality-the-ultimate-display-by-ivan-sutherland-1965/
+https://moodle.cs.colorado.edu/pluginfile.php/85205/mod_forum/intro/Milgram1994%20-%20Taxonomy%20of%20Mixed%20Reality.pdf
+https://moodle.cs.colorado.edu/pluginfile.php/85205/mod_forum/intro/Presence%20terminology%20-%20Slater.pdf
+http://acko.net/files/gltalks/pixelfactory/online.html#1
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+http://nivea.psycho.univ-paris5.fr/Synthese/MyinFinal.html
+https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/
+http://www.geeksengine.com/article/absolute-relative-path.html
+https://threejs.org/examples/#webgl_animation_keyframes
+
+Code
+https://jsbin.com/lusihem/edit?html,js,output
